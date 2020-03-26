@@ -1,0 +1,1 @@
+insert into table1(id) values('jin');
